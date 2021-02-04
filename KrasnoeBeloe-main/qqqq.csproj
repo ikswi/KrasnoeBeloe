@@ -95,5 +95,26 @@
   <ItemGroup>
     <None Include="Resources\арахис.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\пиво1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\пиво2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\пиво3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\пиво4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\сухари.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\сухари2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\сухари3.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
