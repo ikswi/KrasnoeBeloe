@@ -41,3 +41,15 @@ C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\K
 C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
 C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
 C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AllProducts.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Form1.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe.config
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.pdb
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb

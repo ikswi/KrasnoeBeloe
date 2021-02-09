@@ -44,17 +44,18 @@ namespace qqqq
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(589, 133);
-            this.button1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button1.Margin = new System.Windows.Forms.Padding(5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(280, 75);
             this.button1.TabIndex = 3;
             this.button1.Text = "Прочее";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button2_Click);
             // 
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(299, 133);
-            this.button2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button2.Margin = new System.Windows.Forms.Padding(5);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(280, 75);
             this.button2.TabIndex = 4;
@@ -65,7 +66,7 @@ namespace qqqq
             // AlkashkaButton
             // 
             this.AlkashkaButton.Location = new System.Drawing.Point(9, 133);
-            this.AlkashkaButton.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.AlkashkaButton.Margin = new System.Windows.Forms.Padding(5);
             this.AlkashkaButton.Name = "AlkashkaButton";
             this.AlkashkaButton.Size = new System.Drawing.Size(280, 75);
             this.AlkashkaButton.TabIndex = 5;
@@ -76,17 +77,18 @@ namespace qqqq
             // button4
             // 
             this.button4.Location = new System.Drawing.Point(224, 14);
-            this.button4.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button4.Margin = new System.Windows.Forms.Padding(5);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(425, 105);
             this.button4.TabIndex = 6;
             this.button4.Text = "Главная страница";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // pictureBox3
             // 
             this.pictureBox3.Location = new System.Drawing.Point(589, 218);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(5);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(280, 290);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -98,7 +100,7 @@ namespace qqqq
             this.pictureBox2.Image = global::qqqq.Properties.Resources.пиво;
             this.pictureBox2.InitialImage = global::qqqq.Properties.Resources.пиво;
             this.pictureBox2.Location = new System.Drawing.Point(9, 218);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(5);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(280, 290);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -112,7 +114,7 @@ namespace qqqq
             this.pictureBox1.Image = global::qqqq.Properties.Resources.арахис;
             this.pictureBox1.InitialImage = global::qqqq.Properties.Resources.арахис;
             this.pictureBox1.Location = new System.Drawing.Point(299, 218);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(5);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(280, 290);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -122,7 +124,7 @@ namespace qqqq
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(888, 521);
             this.Controls.Add(this.button4);
@@ -133,7 +135,7 @@ namespace qqqq
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

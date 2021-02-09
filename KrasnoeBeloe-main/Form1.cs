@@ -29,7 +29,14 @@ namespace qqqq
             af.Show();
         }
 
+
         private void button2_Click(object sender, EventArgs e)
+        {
+            AllProducts af = new AllProducts();
+            af.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
         {
 
         }
