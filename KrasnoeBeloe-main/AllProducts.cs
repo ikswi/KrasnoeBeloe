@@ -25,27 +25,34 @@ namespace qqqq
         public AllProducts()
         {
             InitializeComponent();
+            
             products_list[0].picture = pictureBox2;
-            products_list[0].name = "Хрустеам";
+            products_list[0].name = "Хрустеам сметана";
             products_list[0].price = 60;
+
             products_list[1].picture = pictureBox3;
-            products_list[1].name = "Хрустеам";
+            products_list[1].name = "Хрустеам стейк";
             products_list[1].price = 60;
+
             products_list[2].picture = pictureBox3;
             products_list[2].name = "Хрустеам";
             products_list[2].price = 60;
+
             products_list[3].picture = pictureBox3;
-            products_list[3].name = "Хрустеам";
+            products_list[3].name = "Хрустеам холодец";
             products_list[3].price = 60;
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < 2; i++)
+            for (int i = 0; i < 4; i++)
             {
                 products_list[i].picture.Visible = true;
-                if (!products_list[i].name.Contains(textBox1.Text))
+                if (!products_list[i].name.Contains(nameTB.Text))
+                    products_list[i].picture.Visible = false;
+                if (priceTB.Text != "" &&
+                    products_list[i].price > Convert.ToInt32(priceTB.Text))
                     products_list[i].picture.Visible = false;
             }
         }

@@ -125,5 +125,26 @@
   <ItemGroup>
     <None Include="Resources\сухари3.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="KrasnoeBeloe-main\Resources\сухари4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KrasnoeBeloe-main\Resources\сухари5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KrasnoeBeloe-main\Resources\сухари6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KrasnoeBeloe-main\Resources\сухари7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KrasnoeBeloe-main\Resources\сухари8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KrasnoeBeloe-main\Resources\сухари9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KrasnoeBeloe-main\Resources\сухари10.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

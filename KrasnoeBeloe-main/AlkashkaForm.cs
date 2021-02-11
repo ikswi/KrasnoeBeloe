@@ -102,5 +102,9 @@ namespace qqqq
             PictureBox pb = (PictureBox)sender;
             MessageBox.Show("С Вас " + pb.Tag.ToString() + " рублей");
         }
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -133,6 +133,16 @@ namespace qqqq.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap сухари10 {
+            get {
+                object obj = ResourceManager.GetObject("сухари10", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap сухари2 {
             get {
                 object obj = ResourceManager.GetObject("сухари2", resourceCulture);
@@ -146,6 +156,66 @@ namespace qqqq.Properties {
         internal static System.Drawing.Bitmap сухари3 {
             get {
                 object obj = ResourceManager.GetObject("сухари3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap сухари4 {
+            get {
+                object obj = ResourceManager.GetObject("сухари4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap сухари5 {
+            get {
+                object obj = ResourceManager.GetObject("сухари5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap сухари6 {
+            get {
+                object obj = ResourceManager.GetObject("сухари6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap сухари7 {
+            get {
+                object obj = ResourceManager.GetObject("сухари7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap сухари8 {
+            get {
+                object obj = ResourceManager.GetObject("сухари8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap сухари9 {
+            get {
+                object obj = ResourceManager.GetObject("сухари9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
