@@ -52,6 +52,12 @@
     <Compile Include="AlkashkaForm.Designer.cs">
       <DependentUpon>AlkashkaForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="AllProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllProducts.Designer.cs">
+      <DependentUpon>AllProducts.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AlkashkaForm.resx">
       <DependentUpon>AlkashkaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllProducts.resx">
+      <DependentUpon>AllProducts.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -94,6 +103,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\арахис.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\пиво1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\пиво2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\пиво3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\пиво4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\сухари.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\сухари2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\сухари3.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
