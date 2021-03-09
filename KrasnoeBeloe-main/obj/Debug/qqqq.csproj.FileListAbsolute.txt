@@ -1,0 +1,103 @@
+C:\Users\user\source\repos\qqqq\bin\Debug\qqqq.exe.config
+C:\Users\user\source\repos\qqqq\bin\Debug\qqqq.exe
+C:\Users\user\source\repos\qqqq\bin\Debug\qqqq.pdb
+C:\Users\user\source\repos\qqqq\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\user\source\repos\qqqq\obj\Debug\qqqq.Form1.resources
+C:\Users\user\source\repos\qqqq\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\user\source\repos\qqqq\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\user\source\repos\qqqq\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\qqqq\obj\Debug\qqqq.exe
+C:\Users\user\source\repos\qqqq\obj\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe.config
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Form1.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe.config
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Form1.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe.config
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.pdb
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Form1.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AllProducts.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Form1.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe.config
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.pdb
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
+C:\Users\beavi\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe.config
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AllProducts.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Form1.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AllProducts.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Form1.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe.config
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.pdb
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\obj\Debug\qqqq.AllProducts.resources
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\obj\Debug\qqqq.Form1.resources
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\obj\Debug\qqqq.exe
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\obj\Debug\qqqq.pdb
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\bin\Debug\qqqq.exe.config
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\bin\Debug\qqqq.exe
+C:\Users\user\Desktop\MoiProject\KrasnoeBeloe\bin\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\bin\Debug\qqqq.exe.config
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\bin\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\bin\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.AllProducts.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.Form1.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
