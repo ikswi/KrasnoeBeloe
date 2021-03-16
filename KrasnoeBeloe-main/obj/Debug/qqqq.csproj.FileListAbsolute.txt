@@ -101,3 +101,5 @@ C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.c
 C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
 C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.exe
 C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AllProducts.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Korzina.resources

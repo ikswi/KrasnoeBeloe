@@ -52,11 +52,11 @@
     <Compile Include="AlkashkaForm.Designer.cs">
       <DependentUpon>AlkashkaForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="AllProducts.cs">
+    <Compile Include="Все продукты.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AllProducts.Designer.cs">
-      <DependentUpon>AllProducts.cs</DependentUpon>
+    <Compile Include="Все продукты.Designer.cs">
+      <DependentUpon>Все продукты.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -64,16 +64,25 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Korzina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Korzina.Designer.cs">
+      <DependentUpon>Korzina.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AlkashkaForm.resx">
       <DependentUpon>AlkashkaForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AllProducts.resx">
-      <DependentUpon>AllProducts.cs</DependentUpon>
+    <EmbeddedResource Include="Все продукты.resx">
+      <DependentUpon>Все продукты.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korzina.resx">
+      <DependentUpon>Korzina.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
