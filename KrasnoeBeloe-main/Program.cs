@@ -16,6 +16,7 @@ namespace qqqq
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            AllProducts.FillProducts();
             Application.Run(new Form1());
         }
     }

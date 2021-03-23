@@ -52,11 +52,11 @@
     <Compile Include="AlkashkaForm.Designer.cs">
       <DependentUpon>AlkashkaForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Все продукты.cs">
+    <Compile Include="AllProducts.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Все продукты.Designer.cs">
-      <DependentUpon>Все продукты.cs</DependentUpon>
+    <Compile Include="AllProducts.Designer.cs">
+      <DependentUpon>AllProducts.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -75,8 +75,8 @@
     <EmbeddedResource Include="AlkashkaForm.resx">
       <DependentUpon>AlkashkaForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Все продукты.resx">
-      <DependentUpon>Все продукты.cs</DependentUpon>
+    <EmbeddedResource Include="AllProducts.resx">
+      <DependentUpon>AllProducts.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

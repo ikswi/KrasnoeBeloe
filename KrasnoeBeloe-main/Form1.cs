@@ -23,22 +23,28 @@ namespace qqqq
             af.Show();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void SnacksClick(object sender, EventArgs e)
         {
             AlkashkaForm af = new AlkashkaForm("Снэки");
             af.Show();
         }
 
 
-        private void button2_Click(object sender, EventArgs e)
+        private void AllProductsClick(object sender, EventArgs e)
         {
             AllProducts af = new AllProducts();
-            af.Show();
+            af.ShowDialog();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+                Korzina af = new Korzina();
+                af.Show();
         }
     }
 }
