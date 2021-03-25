@@ -11,3 +11,16 @@ C:\Users\user\Desktop\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.
 C:\Users\user\Desktop\KrasnoeBeloe-main\obj\Debug\qqqq.exe
 C:\Users\user\Desktop\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
 C:\Users\user\Desktop\KrasnoeBeloe-main\obj\Debug\qqqq.Korzina.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe.config
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\bin\Debug\qqqq.pdb
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AlkashkaForm.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.AllProducts.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Form1.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Korzina.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.Properties.Resources.resources
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.GenerateResource.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
+C:\Users\user\Downloads\KrasnoeBeloe-main (1)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
