@@ -25,6 +25,7 @@ namespace qqqq
             price = _price;
             picture = new PictureBox();
         }
+
     }
 
     public partial class AllProducts : Form
@@ -41,7 +42,7 @@ namespace qqqq
         public static void FillProducts()
         {
             products_list.Add(new Product("сухари2", "Снэки", 30));
-            products_list.Add(new Product("сухари6","Снэки", 30));
+            products_list.Add(new Product("сухари6", "Снэки", 30));
             products_list.Add(new Product("сухари3", "Снэки", 30));
             products_list.Add(new Product("сухари4", "Снэки", 30));
             products_list.Add(new Product("пиво1", "Напитки", 60));
@@ -59,11 +60,47 @@ namespace qqqq
             }
         }
 
+        public static void FillTranslations()
+        {
+            EngWords.Add("Поиск", "Search");
+            EngWords.Add("Корзина", "Basket");
+            EngWords.Add("Наименование", "Name");
+
+            RusWords.Add("Поиск", "Поиск");
+            RusWords.Add("Корзина", "Корзина");
+            RusWords.Add("Наименование", "Наименование");
+        }
+
+
+        public static Dictionary<string, string> EngWords = new Dictionary<string, string>();
+        public static Dictionary<string, string> RusWords = new Dictionary<string, string>();
+
+        void translate(Dictionary<string, string> Words)
+        {
+            button1.Text = Words["Поиск"];
+            button2.Text = Words["Корзина"];
+            label6.Text = Words["Наименование"];
+        }
+        void button3_Click(object sender, EventArgs e)
+        {
+            translate(EngWords);
+        }
+
+        void button4_Click(object sender, EventArgs e)
+        {
+            translate(RusWords);
+        }
+
+
         public AllProducts()
         {
+
             InitializeComponent();
 
-            int x = 10;
+
+
+
+        int x = 10;
             int y = 10;
             for (int i = 0; i < products_list.Count; i++)
             { 
