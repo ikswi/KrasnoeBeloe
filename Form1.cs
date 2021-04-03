@@ -20,17 +20,17 @@ namespace qqqq
         private void AlkashkaClick(object sender, EventArgs e)
         {
             AlkashkaForm af = new AlkashkaForm("Напитки");
-            af.ShowDialog();
+            af.Show();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void SnacksClick(object sender, EventArgs e)
         {
             AlkashkaForm af = new AlkashkaForm("Снэки");
-            af.ShowDialog();
+            af.Show();
         }
 
 
-        private void button2_Click(object sender, EventArgs e)
+        private void AllProductsClick(object sender, EventArgs e)
         {
             AllProducts af = new AllProducts();
             af.ShowDialog();
@@ -39,6 +39,12 @@ namespace qqqq
         private void button4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+                Korzina af = new Korzina();
+                af.Show();
         }
     }
 }
