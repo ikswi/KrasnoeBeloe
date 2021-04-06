@@ -37,16 +37,3 @@ C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-mai
 C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
 C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.exe
 C:\Users\user\Downloads\KrasnoeBeloe-main (2)\KrasnoeBeloe-main\KrasnoeBeloe-main\obj\Debug\qqqq.pdb
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\bin\Debug\qqqq.exe.config
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\bin\Debug\qqqq.exe
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\bin\Debug\qqqq.pdb
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.csprojAssemblyReference.cache
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.AlkashkaForm.resources
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.AllProducts.resources
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.Form1.resources
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.Korzina.resources
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.Properties.Resources.resources
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.csproj.GenerateResource.cache
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.csproj.CoreCompileInputs.cache
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.exe
-C:\Users\beavi\Downloads\git\KrasnoeBeloe\obj\Debug\qqqq.pdb

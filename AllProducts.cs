@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -41,22 +42,12 @@ namespace qqqq
 
         public static void FillProducts()
         {
-            products_list.Add(new Product("сухари2", "Снэки", 30));
-            products_list.Add(new Product("сухари6", "Снэки", 30));
-            products_list.Add(new Product("сухари3", "Снэки", 30));
-            products_list.Add(new Product("сухари4", "Снэки", 30));
-            products_list.Add(new Product("пиво1", "Напитки", 60));
-            products_list.Add(new Product("пиво2", "Напитки", 61));
-            products_list.Add(new Product("пиво3", "Напитки", 62));
-            products_list.Add(new Product("пиво4", "Напитки", 63));
-            for (int i = 0; i < products_list.Count; i++)
+            string[] products = File.ReadAllLines("../../Продукты.txt");
+
+            foreach (string product in products)
             {
-                try
-                {
-                    products_list[i].picture.Load("../../Resources/" + products_list[i].name + ".jpg");
-                }
-                catch (Exception) { }
-                products_list[i].picture.Click += new EventHandler(AddToCart);
+                string[] parts = product.Split(new String[] { "," }, StringSplitOptions.None);
+                products_list.Add(new Product(parts[0], parts[1], Convert.ToInt32(parts[2])));
             }
         }
 
