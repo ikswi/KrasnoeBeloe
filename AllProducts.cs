@@ -31,13 +31,7 @@ namespace qqqq
 
     public partial class AllProducts : Form
     {
-        /// <summary>
-        /// Все т овары
-        /// </summary>
         public static List<Product> products_list = new List<Product>();
-        /// <summary>
-        /// Корзина
-        /// </summary>
         public static List<Product> bascet = new List<Product>();
 
         public static void FillProducts()
@@ -48,6 +42,16 @@ namespace qqqq
             {
                 string[] parts = product.Split(new String[] { "," }, StringSplitOptions.None);
                 products_list.Add(new Product(parts[0], parts[1], Convert.ToInt32(parts[2])));
+            }
+
+            for (int i = 0; i < products_list.Count; i++)
+            {
+                try
+                {
+                    products_list[i].picture.Load("../../Resources/" + products_list[i].name + ".jpg");
+                }
+                catch (Exception) { }
+                products_list[i].picture.Click += new EventHandler(AddToCart);
             }
         }
 

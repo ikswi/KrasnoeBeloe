@@ -46,5 +46,11 @@ namespace qqqq
                 Korzina af = new Korzina();
                 af.Show();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+                AddProduct af = new AddProduct();
+                af.Show();
+        }
     }
 }
