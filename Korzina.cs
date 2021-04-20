@@ -20,43 +20,17 @@ namespace qqqq
         private void Korzina_Load(object sender, EventArgs e)
         {
 
-            int x = 10;
             int y = 10;
             int summa = 0;
 
             //Бегаешь по всем продуктам из корзины
             foreach(Product product in AllProducts.bascet)
             {
-                PictureBox pb = new PictureBox();
-
-                try
-                {
-                    pb.Load("../../Resources/" + product.name + ".jpg");
-                }
-                catch (Exception) { }
-
-                pb.Location = new Point(x, y);
-                pb.Size = new Size(120, 120);
-                pb.Tag = product.name;
-                pb.SizeMode = PictureBoxSizeMode.Zoom;
+                UserControl1 pb = new UserControl1(product);
+                pb.Location = new Point(10, y);
                 summa = summa + product.price;
                 Controls.Add(pb);
-
-
-                Label label = new Label();
-                label.Location = new Point(x, y + 120);
-                label.Size = new Size(120, 30);
-                label.Tag = product.name;
-                label.Text = product.price.ToString() + " руб.";
-                Controls.Add(label);
-
-
-                x = x + 160;
-                if (x + 120 > Width)
-                {
-                    y = y + 180;
-                    x = 10;
-                }
+                    y = y + 90;
             }
 
             label1.Text = summa.ToString() +" рублей";
