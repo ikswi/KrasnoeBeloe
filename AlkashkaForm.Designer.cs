@@ -66,6 +66,7 @@ namespace qqqq
             this.label6.Size = new System.Drawing.Size(106, 17);
             this.label6.TabIndex = 32;
             this.label6.Text = "Наименование";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label1
             // 
@@ -75,6 +76,7 @@ namespace qqqq
             this.label1.Size = new System.Drawing.Size(43, 17);
             this.label1.TabIndex = 31;
             this.label1.Text = "Цена";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // priceTB
             // 
@@ -82,6 +84,7 @@ namespace qqqq
             this.priceTB.Name = "priceTB";
             this.priceTB.Size = new System.Drawing.Size(100, 22);
             this.priceTB.TabIndex = 30;
+            this.priceTB.TextChanged += new System.EventHandler(this.priceTB_TextChanged);
             // 
             // nameTB
             // 
@@ -89,6 +92,7 @@ namespace qqqq
             this.nameTB.Name = "nameTB";
             this.nameTB.Size = new System.Drawing.Size(100, 22);
             this.nameTB.TabIndex = 29;
+            this.nameTB.TextChanged += new System.EventHandler(this.nameTB_TextChanged);
             // 
             // button1
             // 

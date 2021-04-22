@@ -14,10 +14,12 @@ namespace qqqq
     public struct Product
     {
         public PictureBox picture;
-        
+        public Label label;
+
         public string name;
         public string category;
         public int price;
+        //List<string> options;
 
         public Product(string _name, string _category, int _price)
         {
@@ -25,6 +27,10 @@ namespace qqqq
             category = _category;
             price = _price;
             picture = new PictureBox();
+            label = new Label();
+            label.Text = price + " руб";
+            //combo = new ComboBox();
+            //combo.DataSourse = ops;            
         }
 
     }
@@ -40,7 +46,10 @@ namespace qqqq
 
             foreach (string product in products)
             {
-                string[] parts = product.Split(new String[] { "," }, StringSplitOptions.None);
+                string[] parts = product.Split(new String[] { ", " }, StringSplitOptions.None);
+                List<string> options = new List<string>();
+                if (parts.Length > 3)
+                    options = parts[3].Split(new char[] { ';' }).ToList();
                 products_list.Add(new Product(parts[0], parts[1], Convert.ToInt32(parts[2])));
             }
 
@@ -57,10 +66,12 @@ namespace qqqq
 
         public static void FillTranslations()
         {
+            EngWords.Add("Продукты", "Products");
             EngWords.Add("Поиск", "Search");
             EngWords.Add("Корзина", "Basket");
             EngWords.Add("Наименование", "Name");
 
+            RusWords.Add("Продукты", "Продукты");
             RusWords.Add("Поиск", "Поиск");
             RusWords.Add("Корзина", "Корзина");
             RusWords.Add("Наименование", "Наименование");
@@ -72,6 +83,7 @@ namespace qqqq
 
         void translate(Dictionary<string, string> Words)
         {
+            Text = Words["Продукты"];
             button1.Text = Words["Поиск"];
             button2.Text = Words["Корзина"];
             label6.Text = Words["Наименование"];
@@ -95,7 +107,7 @@ namespace qqqq
 
 
 
-        int x = 10;
+            int x = 10;
             int y = 10;
             for (int i = 0; i < products_list.Count; i++)
             { 
@@ -104,8 +116,10 @@ namespace qqqq
                 products_list[i].picture.SizeMode = PictureBoxSizeMode.Zoom;
                 toolTip1.SetToolTip(products_list[i].picture, "Кликни, чтобы добавить в корзину");
                 panel1.Controls.Add(products_list[i].picture);
-            //products_list[i].picture = pb;
 
+                products_list[i].label.Location = new Point(x, y + 120);
+                products_list[i].label.Size = new Size(100, 20);
+                panel1.Controls.Add(products_list[i].label);
                 x = x + 160;
                 if (x + 120 > Width)
                 {
@@ -148,6 +162,9 @@ namespace qqqq
                 if (priceTB.Text != "" &&
                     products_list[i].price > Convert.ToInt32(priceTB.Text))
                     products_list[i].picture.Visible = false;
+
+
+                products_list[i].label.Visible = products_list[i].picture.Visible;
             }
         }
 

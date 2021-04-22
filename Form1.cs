@@ -52,5 +52,14 @@ namespace qqqq
                 AddProduct af = new AddProduct();
                 af.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+                AuthForm af = new AuthForm();
+                af.ShowDialog();
+            label1.Text = AuthForm.Login;
+            if (AuthForm.Login == "")
+                label1.Visible = false;
+        }
     }
 }

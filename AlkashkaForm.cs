@@ -61,7 +61,7 @@ namespace qqqq
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < AllProducts.products_list.Count; i++)
+            /*for (int i = 0; i < AllProducts.products_list.Count; i++)
             {
                 //Если категория неправильная, идем дальше
                 if (Text != AllProducts.products_list[i].category)
@@ -75,6 +75,7 @@ namespace qqqq
                     AllProducts.products_list[i].price > Convert.ToInt32(priceTB.Text))
                     AllProducts.products_list[i].picture.Visible = false;
             }
+        */
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -84,6 +85,26 @@ namespace qqqq
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void priceTB_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nameTB_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
         {
 
         }
