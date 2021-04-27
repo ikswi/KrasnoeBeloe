@@ -11,6 +11,9 @@ using System.Windows.Forms;
 
 namespace qqqq
 {
+    /// <summary>
+    /// Продукт
+    /// </summary>
     public struct Product
     {
         public PictureBox picture;
@@ -38,7 +41,7 @@ namespace qqqq
     public partial class AllProducts : Form
     {
         public static List<Product> products_list = new List<Product>();
-        public static List<Product> bascet = new List<Product>();
+        public static Dictionary<Product, int> bascet = new Dictionary<Product, int>();
 
         public static void FillProducts()
         {
@@ -105,6 +108,7 @@ namespace qqqq
             InitializeComponent();
 
 
+            Text = "Все продукты";
 
 
             int x = 10;
@@ -135,13 +139,19 @@ namespace qqqq
         {
             PictureBox pb = (PictureBox)sender;
 
-            for (int i = 0; i < products_list.Count; i++)
+            foreach (Product prod in products_list)
             {
                 //Ткнули на эту картинку
-                if (pb.Image == products_list[i].picture.Image)
+                if (pb.Image == prod.picture.Image)
                 {
                     //Добавить в корзину
-                    bascet.Add(products_list[i]);
+                    if (!bascet.ContainsKey(prod))
+                    {
+                        bascet.Add(prod, 1);
+                    }
+                    else
+                        bascet[prod] = bascet[prod] + 1;
+
                     MessageBox.Show("Добавлено в корзину");
                 }
             }

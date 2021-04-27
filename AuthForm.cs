@@ -18,6 +18,7 @@ namespace qqqq
         public AuthForm()
         {
             InitializeComponent();
+            Text = "Вход";
             Users = new List<string>();
             Users.Add("1");  Users.Add("1");
 

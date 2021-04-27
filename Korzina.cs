@@ -15,6 +15,8 @@ namespace qqqq
         public Korzina()
         {
             InitializeComponent();
+
+            Text = "Корзина";
         }
 
         private void Korzina_Load(object sender, EventArgs e)
@@ -24,9 +26,12 @@ namespace qqqq
             int summa = 0;
 
             //Бегаешь по всем продуктам из корзины
-            foreach(Product product in AllProducts.bascet)
+            foreach(KeyValuePair<Product, int> prod in AllProducts.bascet)
             {
-                UserControl1 pb = new UserControl1(product);
+                Product product = prod.Key;
+                int count = prod.Value;
+
+                UserControl1 pb = new UserControl1(product, count);
                 pb.Location = new Point(10, y);
                 summa = summa + product.price;
                 Controls.Add(pb);

@@ -33,16 +33,18 @@ namespace qqqq
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.price = new System.Windows.Forms.NumericUpDown();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.price)).BeginInit();
             this.SuspendLayout();
             // 
             // comboBox1
             // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "Напитки",
@@ -58,9 +60,9 @@ namespace qqqq
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(33, 61);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(258, 17);
+            this.label1.Size = new System.Drawing.Size(77, 17);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Продукт имеет следущие параметры:";
+            this.label1.Text = "Категория";
             // 
             // textBox1
             // 
@@ -77,13 +79,6 @@ namespace qqqq
             this.label2.Size = new System.Drawing.Size(72, 17);
             this.label2.TabIndex = 6;
             this.label2.Text = "Название";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(36, 199);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 7;
             // 
             // label3
             // 
@@ -119,22 +114,30 @@ namespace qqqq
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
+            // price
+            // 
+            this.price.Location = new System.Drawing.Point(36, 183);
+            this.price.Name = "price";
+            this.price.Size = new System.Drawing.Size(120, 22);
+            this.price.TabIndex = 10;
+            // 
             // AddProduct
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.price);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "AddProduct";
-            this.Text = "AddProduct";
+            this.Text = "Добавление нового продукта";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.price)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -147,9 +150,9 @@ namespace qqqq
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.NumericUpDown price;
     }
 }

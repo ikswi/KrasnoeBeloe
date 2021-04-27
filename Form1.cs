@@ -15,6 +15,8 @@ namespace qqqq
         public Form1()
         {
             InitializeComponent();
+
+            Text = "Главная страница";
         }
 
         private void AlkashkaClick(object sender, EventArgs e)

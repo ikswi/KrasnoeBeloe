@@ -16,13 +16,21 @@ namespace qqqq
         public AddProduct()
         {
             InitializeComponent();
+
+            Text = "Добавление нового продукта";
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if (price.Value <= 0)
+            {
+                MessageBox.Show("Укажите цену");
+                return;
+            }
+
             File.AppendAllText("../../Продукты.txt", Environment.NewLine + 
-                textBox1.Text + ", " + comboBox1.Text + ", " + textBox2.Text);
-            MessageBox.Show("1");
+                textBox1.Text + ", " + comboBox1.Text + ", " + price.Value.ToString());
+            MessageBox.Show("Добавлено");
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
