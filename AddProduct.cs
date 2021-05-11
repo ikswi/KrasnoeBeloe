@@ -33,9 +33,14 @@ namespace qqqq
             MessageBox.Show("Добавлено");
         }
 
+        string address = "";
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            //TODO добавление картинки
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                address = openFileDialog1.FileName;
+                pictureBox1.Load(address);
+            }
         }
     }
 }

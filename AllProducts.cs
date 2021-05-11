@@ -73,11 +73,13 @@ namespace qqqq
             EngWords.Add("Поиск", "Search");
             EngWords.Add("Корзина", "Basket");
             EngWords.Add("Наименование", "Name");
+            EngWords.Add("Цена", "Price");
 
             RusWords.Add("Продукты", "Продукты");
             RusWords.Add("Поиск", "Поиск");
             RusWords.Add("Корзина", "Корзина");
             RusWords.Add("Наименование", "Наименование");
+            RusWords.Add("Цена", "Цена");
         }
 
 

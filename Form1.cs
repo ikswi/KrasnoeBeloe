@@ -68,19 +68,8 @@ namespace qqqq
 
         private void button7_Click(object sender, EventArgs e)
         {
-            MailAddress from = new MailAddress("qqqqqqqqqqqwwwwwwwwwss@gmail.com");
-            MailAddress to = new MailAddress("ikswi@yandex.ru");
-            MailMessage m = new MailMessage(from, to);
-            m.Subject = "Вы украли мои деньги";
-            m.Body = "<h2>Верните по-хорошему</h2>";
-            m.IsBodyHtml = true;
-            SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
-            smtp.Credentials = new NetworkCredential("qqqqqqqqqqqwwwwwwwwwss@gmail.com", "12345678Aa");
-            smtp.EnableSsl = true;
-            smtp.Send(m);
-
-            MessageBox.Show("Сообщение отправлено");
-
+                Form2 af = new Form2();
+                af.ShowDialog();
         }
     }
 }
