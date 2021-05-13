@@ -113,10 +113,11 @@ namespace qqqq
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::qqqq.Properties.Resources.Безымянный;
             this.pictureBox1.Location = new System.Drawing.Point(404, 67);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(267, 233);
+            this.pictureBox1.Size = new System.Drawing.Size(267, 192);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 7;
             this.pictureBox1.TabStop = false;

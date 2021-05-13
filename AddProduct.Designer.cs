@@ -51,7 +51,7 @@ namespace qqqq
             "Снэки",
             "Прочее"});
             this.comboBox1.Location = new System.Drawing.Point(25, 149);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(5);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(335, 37);
             this.comboBox1.TabIndex = 1;
@@ -69,7 +69,7 @@ namespace qqqq
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(25, 55);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(5);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(335, 34);
             this.textBox1.TabIndex = 5;
@@ -97,7 +97,7 @@ namespace qqqq
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(34, 332);
-            this.button1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button1.Margin = new System.Windows.Forms.Padding(5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(203, 71);
             this.button1.TabIndex = 9;
@@ -113,7 +113,7 @@ namespace qqqq
             // 
             this.pictureBox1.Image = global::qqqq.Properties.Resources.kisspng_fungus_amanita_mushroom_mushroom_5ab47425117b36_0263338515217756530716;
             this.pictureBox1.Location = new System.Drawing.Point(426, 24);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(5);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(343, 304);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -124,7 +124,7 @@ namespace qqqq
             // price
             // 
             this.price.Location = new System.Drawing.Point(34, 248);
-            this.price.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.price.Margin = new System.Windows.Forms.Padding(5);
             this.price.Maximum = new decimal(new int[] {
             10000,
             0,
@@ -138,7 +138,7 @@ namespace qqqq
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(818, 437);
+            this.ClientSize = new System.Drawing.Size(777, 412);
             this.Controls.Add(this.price);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
@@ -148,7 +148,7 @@ namespace qqqq
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.pictureBox1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "AddProduct";
             this.Text = "Добавление нового продукта";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
